@@ -25,11 +25,3 @@ I’m a full-stack web developer. Currently working on projects with JavaScript,
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Jeff-m9/Jeff-m9/output/snake.svg" alt="Snake animation" />
-
-###
